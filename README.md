@@ -1,6 +1,6 @@
 Hi, I’m Mapniv.
 I'm a self-taught C programmer. I enjoy creating things that work the way I want them to.
-Currently I'm working on my own MUD engine.
+Currently I'm working on my own programming language.
 
 <!---
 Mapniv/Mapniv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
