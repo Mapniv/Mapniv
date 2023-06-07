@@ -57,7 +57,7 @@ Hello, I'm Mapniv. Want to learn something about me? Read on.
 - Ran vim for the first time, closed the terminal as I couldn't quit it
 - In 2021 standatd support for Ubuntu 16.04 ended. I decided to try Arch
 - Due to a kernel panic I switched back to Ubuntu, this time 18.04
-- Read an article about vim+tmux combo, started susing neovim, 
+- Read an article about vim+tmux combo, started using neovim, 
  I didn't use tmux as I didn't like the key bindings
 - Another kernel bug, decided to abandon Ubuntu, found Void Linux 
  Decided to go for a manual install. Installed Openbox with custom
