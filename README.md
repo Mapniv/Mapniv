@@ -1,8 +1,31 @@
 Hello, I'm Mapniv. Want to learn something about me? Read on.
 
+## About me
+### Short description
+I love creating things. With programming not only can I create new worlds but
+ also the toos are free. This is why I like programming. Other than that I
+ like going for walks. I feel especially well in forests. Bacause of
+ schizoid presonality disorder I don't feel emotions like most people do.
+ I'm cold and detached person. Does it mean that I don't care? Well, no.
+ The only reason I care for others is decision I made. I don't know why...
+ I also have schizophrenia but I don't suffer any symptoms. On the other side
+ in my country I am considered a disabled person and receive a disability
+ pension. This means I can work on open source projects full time.
+ My favourite composer is Greg Dombrowski (Secession Studios). Divination is
+ the soundtrack I most relate to.
+
+### Life goals
+- To become a wise person
+- To die in peace
+
 ### Background:
 - Nationality: Polish
 - Age: Young adult
+
+### Technology I use
+- Operatnig system: Void GNU/Linux
+- Text editor: Neovim
+- Programming languages: C, Haskell
 
 ## My story with technology
 ### Childhood and primary school
@@ -60,10 +83,12 @@ Hello, I'm Mapniv. Want to learn something about me? Read on.
 - Read an article about vim+tmux combo, started using neovim, 
  I didn't use tmux as I didn't like the key bindings
 - Another kernel bug, decided to abandon Ubuntu, found Void Linux 
- Decided to go for a manual install. Installed Openbox with custom
+ Decided to go for a manual install. Installed Openbox with custom 
  configuration, configured URxvt to look like normal terminal
 - Installed and configured tmux
 - Discovered that Lua table indexes start at one :(
 - Discovered Haskell, first language that managed to impress me
 - Decided to write my own embeddable scripting language with arrays 
  starting at zero and syntax inspired by Haskell
+
+
