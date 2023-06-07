@@ -86,7 +86,7 @@ I love creating things. With programming not only can I create new worlds but
  Decided to go for a manual install. Installed Openbox with custom 
  configuration, configured URxvt to look like normal terminal
 - Installed and configured tmux
-- Discovered that Lua table indexes start at one :(
+- Discovered that Lua table indexing starts at one :(
 - Discovered Haskell, first language that managed to impress me
 - Decided to write my own embeddable scripting language with arrays 
  starting at zero and syntax inspired by Haskell
